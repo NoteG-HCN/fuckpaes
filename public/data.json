@@ -1,0 +1,152 @@
+[
+  {
+    "question": "En el SDR, el quejido espiratorio se produce por:",
+    "options": [
+      "Cierre completo de la glotis",
+      "Incremento de la presión transpulmonar",
+      "Disminución del volumen residual funcional",
+      "Reducción del esfuerzo respiratorio"
+    ],
+    "correct": "Incremento de la presión transpulmonar"
+  },
+  {
+    "question": "La apnea primaria del prematuro se caracteriza por:",
+    "options": [
+      "Hipoxemia sin respuesta a la estimulación",
+      "Episodios de cese respiratorio sin bradicardia",
+      "Intentos respiratorios rápidos seguidos de cese respiratorio",
+      "Asociación con convulsiones neonatales"
+    ],
+    "correct": "Intentos respiratorios rápidos seguidos de cese respiratorio"
+  },
+  {
+    "question": "La alimentación enteral trófica es beneficiosa porque:",
+    "options": [
+      "Inactiva la flora intestinal benigna",
+      "Disminuye el riesgo de infección en recién nacidos",
+      "Reduce la incidencia de hipertensión pulmonar persistente",
+      "Aumenta el riesgo de enterocolitis necrosante"
+    ],
+    "correct": "Disminuye el riesgo de infección en recién nacidos"
+  },
+  {
+    "question": "La deficiencia de surfactante pulmonar en SDR resulta en:",
+    "options": [
+      "Mejor compliance pulmonar",
+      "Disminución de la tensión superficial alveolar",
+      "Colapso alveolar durante la espiración",
+      "Disminución de la presión transpulmonar"
+    ],
+    "correct": "Colapso alveolar durante la espiración"
+  },
+  {
+    "question": "En el manejo de la apnea del prematuro, el tratamiento con metilxantinas como la cafeína tiene como principal efecto:",
+    "options": [
+      "Inhibir la producción de adenosina",
+      "Estimular el reflejo de succión",
+      "Aumentar la sensibilidad al dióxido de carbono",
+      "Mejorar la oxigenación a través del aumento de PaO2"
+    ],
+    "correct": "Aumentar la sensibilidad al dióxido de carbono"
+  },
+  {
+    "question": "¿Cuál es una indicación para la administración de alimentación enteral continua en neonatos?",
+    "options": [
+      "Dificultades leves de succión",
+      "Intolerancia alimentaria severa postoperatoria",
+      "Prematuridad con succión eficiente",
+      "Trastornos de regulación de glicemia"
+    ],
+    "correct": "Intolerancia alimentaria severa postoperatoria"
+  },
+  {
+    "question": "La apnea secundaria en recién nacidos prematuros puede ser causada por:",
+    "options": [
+      "Hemorragia intracraneal",
+      "Alta concentración de oxígeno en la ventilación",
+      "Estimulación táctil inapropiada",
+      "Obstrucción del tracto digestivo"
+    ],
+    "correct": "Hemorragia intracraneal"
+  },
+  {
+    "question": "En recién nacidos con SDR, la radiografía de tórax muestra típicamente:",
+    "options": [
+      "Hiperinsuflación pulmonar con diafragmas elevados",
+      "Infiltrados algodonosos y broncograma aéreo visible",
+      "Derrame pleural bilateral con aumento del volumen pulmonar",
+      "Normalidad radiológica en las primeras 48 horas"
+    ],
+    "correct": "Infiltrados algodonosos y broncograma aéreo visible"
+  },
+  {
+    "question": "El uso de CPAP en neonatos con SDR ayuda a:",
+    "options": [
+      "Aumentar la presión alveolar y prevenir el colapso",
+      "Reducir la incidencia de infección nosocomial",
+      "Mejorar la eliminación de dióxido de carbono",
+      "Aumentar la capacidad residual funcional sin efectos secundarios"
+    ],
+    "correct": "Aumentar la presión alveolar y prevenir el colapso"
+  },
+  {
+    "question": "Una complicación de la alimentación enteral es:",
+    "options": [
+      "Déficit nutricional debido a una administración excesiva",
+      "Progresión rápida del peso con soporte ventilatorio",
+      "Intolerancia digestiva que se manifiesta con residuos gástricos biliosos",
+      "Reducción del riesgo de infecciones respiratorias"
+    ],
+    "correct": "Intolerancia digestiva que se manifiesta con residuos gástricos biliosos"
+  },
+  {
+    "question": "El reflejo de succión-deglución en recién nacidos se coordina completamente a partir de:",
+    "options": [
+      "28 semanas de gestación",
+      "30 semanas de gestación",
+      "34 semanas de gestación",
+      "38 semanas de gestación"
+    ],
+    "correct": "34 semanas de gestación"
+  },
+  {
+    "question": "¿Cuál es el efecto principal del síndrome aspirativo meconial en las vías respiratorias?",
+    "options": [
+      "Mejora la ventilación-perfusión",
+      "Aumenta la producción de surfactante",
+      "Bloquea parcialmente la entrada y salida de aire en los bronquios",
+      "Facilita la oxigenación"
+    ],
+    "correct": "Bloquea parcialmente la entrada y salida de aire en los bronquios"
+  },
+  {
+    "question": "El reflejo de Hering-Breuer en neonatos se asocia principalmente con:",
+    "options": [
+      "Aumento de la frecuencia respiratoria",
+      "Vasoconstricción periférica",
+      "Disminución del tono muscular durante el sueño REM",
+      "Activación de las fibras no mielinizadas del nervio vago"
+    ],
+    "correct": "Activación de las fibras no mielinizadas del nervio vago"
+  },
+  {
+    "question": "La elección de sonda para la alimentación enteral se basa principalmente en:",
+    "options": [
+      "El tipo de leche utilizada",
+      "El tamaño y condición del recién nacido",
+      "El tipo de alimentación (trófica o completa)",
+      "La presencia de reflujo gastroesofágico"
+    ],
+    "correct": "El tamaño y condición del recién nacido"
+  },
+  {
+    "question": "El diagnóstico de apnea del prematuro requiere:",
+    "options": [
+      "Confirmación de infecciones neonatales",
+      "Monitorización de episodios de apnea y bradicardia",
+      "La exclusión de insuficiencia cardíaca",
+      "La utilización de ventilación mecánica inmediata"
+    ],
+    "correct": "Monitorización de episodios de apnea y bradicardia"
+  }
+]
